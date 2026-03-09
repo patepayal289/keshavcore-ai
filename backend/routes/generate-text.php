@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $userId = $user['id'];
 
     // 🔥 OpenRouter API
-    $apiKey = "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";
+$api_key = getenv("OPENROUTER_API_KEY");
 
     $data = [
         "model" => "openai/gpt-3.5-turbo",
