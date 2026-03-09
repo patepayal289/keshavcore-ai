@@ -72,7 +72,10 @@ Run using **XAMPP (Apache + MySQL)**.
 
 ## 🎥 Demo Video
 
-[Watch Demo](main/SAAS_AI_DEMO.mp4)
+Watch the demo of the AI SaaS application:
+
+[▶️ Watch Demo](https://github.com/patepayal289/keshavcore-ai/blob/main/SAAS_AI_DEMO.mp4)
+
 ## 👩‍💻 Author
 
 Payal Patel
