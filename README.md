@@ -70,6 +70,9 @@ Run using **XAMPP (Apache + MySQL)**.
 ### Database Structure
 ![Database](screenshot/database_structure.png)
 
+## 🎥 Demo Video
+
+[Watch Demo](SAAS_AI_DEMO.mp4)
 ## 👩‍💻 Author
 
 Payal Patel
