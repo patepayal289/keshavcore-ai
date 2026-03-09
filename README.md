@@ -73,7 +73,7 @@ Run using **XAMPP (Apache + MySQL)**.
 
 Watch the demo of the AI SaaS application:
 
-[▶️ Watch Demo](demo/SAA_DEMO.mp4)
+[▶️ Watch Demo](demo/SAAS_DEMO.mp4)
 ## 👩‍💻 Author
 
 Payal Patel
