@@ -56,19 +56,6 @@ npm run dev
 Run using **XAMPP (Apache + MySQL)**.
 
 ---
-## Screenshots
-
-### Landing Page
-![Landing](screenshots/landing.png)
-
-### Login & Register
-![Login](screenshots/login-register.png)
-
-### AI Dashboard
-![Dashboard](screenshots/dashboard-ui.png)
-
-### Database Structure
-![Database](screenshots/database-structure.png)
 
 ## 👩‍💻 Author
 
