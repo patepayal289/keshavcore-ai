@@ -69,13 +69,11 @@ Run using **XAMPP (Apache + MySQL)**.
 
 ### Database Structure
 ![Database](screenshot/database_structure.png)
-
 ## 🎥 Demo Video
 
 Watch the demo of the AI SaaS application:
 
-[▶️ Watch Demo] (https://github.com/patepayal289/keshavcore-ai/tree/main/demo)
-
+[▶️ Watch Demo](demo/SAA_DEMO.mp4)
 ## 👩‍💻 Author
 
 Payal Patel
