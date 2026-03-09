@@ -72,7 +72,7 @@ Run using **XAMPP (Apache + MySQL)**.
 
 ## 🎥 Demo Video
 
-[Watch Demo](SAAS_AI_DEMO.mp4)
+[Watch Demo](main/SAAS_AI_DEMO.mp4)
 ## 👩‍💻 Author
 
 Payal Patel
